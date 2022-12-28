@@ -1,3 +1,3 @@
 # MetaverseNft
 
-deploted website :- https://metanft1.netlify.app/
+deployed website :- https://metanft1.netlify.app/
